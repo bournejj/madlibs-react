@@ -1,0 +1,66 @@
+.form {
+    margin:10% auto 0 auto;
+	padding:30px;
+	width:400px;
+	height:auto;
+	display:inline-block;
+	background:white;
+	
+}
+
+
+.input {
+	padding:15px 50px;
+	width:auto;
+    text-align: center;
+
+
+  border: 8px;
+  border-style: solid;
+  border-color: black;
+	color:black;
+
+	display:inline-block;
+
+}
+
+.submit {
+	padding:15px 50px;
+	width:400px;
+	background:#1abc9c;
+	border:none;
+	color:white;
+	cursor:pointer;
+	display:block;
+    margin:10% auto 0 auto;
+	padding:30px;
+    text-align: center;
+    right: 50%;
+
+	
+}
+
+.answer {
+    margin:10% auto 0 auto;
+	padding:30px;
+	width:400px;
+	height:auto;
+	display:inline-block;
+	background:white;
+    text-align: center;
+
+
+}
+
+.error {
+   color: red;
+  padding: 10px ;
+  border-radius: 0 ;
+  position: relative; 
+
+  
+  margin-top: 10px
+}
+
+
+
