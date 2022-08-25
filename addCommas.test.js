@@ -1,4 +1,4 @@
-const addCommas = require("./addCommas");
+const addCommas = require("./madlibs-app/src/addCommas");
 
 describe("#addCommas", () => {
   test("it is a function", () => {
